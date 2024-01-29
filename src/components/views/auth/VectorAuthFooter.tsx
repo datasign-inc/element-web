@@ -23,6 +23,7 @@ import { _t } from "../../../languageHandler";
 const VectorAuthFooter = (): ReactElement => {
     const brandingConfig = SdkConfig.getObject("branding");
     const links = brandingConfig?.get("auth_footer_links") ?? [
+        { text: _t("privacy_policy"), url: "https://www.ownd-project.com/messenger/privacy/index.html"},
         { text: "GitHub", url: "https://github.com/OWND-Project" },
     ];
 
