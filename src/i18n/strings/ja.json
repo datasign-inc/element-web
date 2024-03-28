@@ -31,7 +31,7 @@
         "title": "サポートされていないブラウザー"
     },
     "privacy_policy": "プライバシーポリシー",
-    "powered_by_matrix_with_logo": "$matrixLogo による、分散型で暗号化された会話とコラボレーション",
+    "powered_by_matrix_with_logo": "分散型で暗号化された会話とコラボレーション",
     "unknown_device": "不明な端末",
     "use_brand_on_mobile": "携帯端末で%(brand)sを使用できます",
     "web_default_device_name": "%(appName)s： %(osName)sの%(browserName)s",
